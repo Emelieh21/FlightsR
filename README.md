@@ -24,9 +24,9 @@ Simple commands to test if it works:
 
 ```R
 searchAirline("FR") # looks up the airline by airline IATA code
-one_hour <- scheduledFlights("txl","arriving","2017/07/17","09") # gets a dataframe with the flights from Berlin (Tegel) arriving at 9 AM
-schedule <- scheduledFlightsFullDay("mad","departing","2017/07/17") # gets a dataframe with the flights departing from Madrid for the full day
+one_hour <- scheduledFlights("txl","arriving","2017/07/17","09") # gets the flights from Berlin (Tegel) arriving at 9 AM
+schedule <- scheduledFlightsFullDay("mad","departing","2017/07/17") # gets the flights departing from Madrid for the full day
 
-airports <- listAirports(activeOnly = FALSE) # gets a dataframe with all airports (default set to only active airports)
+airports <- listAirports(activeOnly = FALSE) # gets all airports (default set to only active airports)
 
 ```
