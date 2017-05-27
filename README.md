@@ -20,7 +20,7 @@ setAPIKey()
 setAppId()
 ```
 
-Simple commands to test if it works:
+Basic commands:
 
 ```R
 # retrieving airline info

@@ -1,10 +1,10 @@
 Package: FlightsR
 Type: Package
-Title: What the package does (short line)
+Title: This package is an API wrapper of the FlightStats API. 
 Version: 1.0
 Date: 2017-05-12
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Emelie Hofland
+Maintainer: Emelie Hofland <emelie_hofland@hotmail.com>
+Description: FlightsR can be used to retrieve data on airlines, airports and flights schedules worldwide from the FlightStats API.
+License: CC0
 RoxygenNote: 6.0.1

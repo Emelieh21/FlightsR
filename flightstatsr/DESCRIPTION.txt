@@ -1,0 +1,28 @@
+Package: flightstatsr
+Type: Package
+Title: Working with FlightStats data in R
+Version: 0.1.1
+Authors@R: as.person(c("Emelie Hofland <emelie_hofland@hotmail.com [aut, cre]"))
+Description: Provides a wrapper for the FlightStats API.
+License: GPL
+LazyData: TRUE
+Depends: R (>= 3.2.4)
+Remotes: github::rstudio/leaflet
+Imports:
+    dplyr,
+    tibble,
+    readr,
+    httr,
+    htmltools,
+    magrittr,
+    stringr,
+    assertthat,
+    leaflet,
+    sp,
+    scales
+Suggests:
+    testthat,
+    knitr,
+    rmarkdown
+RoxygenNote: 5.0.1
+VignetteBuilder: knitr
