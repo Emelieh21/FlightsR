@@ -1,6 +1,6 @@
 Package: FlightsR
 Type: Package
-Title: This package is an API wrapper of the FlightStats API. 
+Title: This package is an API wrapper for the FlightStats API. 
 Version: 1.0
 Date: 2017-05-12
 Author: Emelie Hofland
